@@ -178,7 +178,7 @@ st.markdown('<div class="eyebrow">Untuk Kamu</div>', unsafe_allow_html=True)
 st.markdown(
     """
     <div class="letter-card">
-      <h2 class="section-title" style="max-width:none;">Selamat 1st anniversary, sayang.</h2>
+      <h2 class="section-title" style="max-width:none;">Selamat tanggal 3 yang ke 12, sayang!!!.</h2>
       <p class="body-copy">
         Sayang, terima kasih udah nemenin aku dalam satu tahun ini (yang pastinya bakal terus terus terus kamu temenin yaa) dengan sabar, hangat, dan tulus.
         Hubungan kita bukan soal hari hari yang selalu sempurna, tapi soal dua orang yang tetap mau
@@ -188,7 +188,7 @@ st.markdown(
         Semoga setelah ini, kita masih terus bareng ya, inget tujuan kitaa.
         Semoga kita terus bikin banyak kenangan baru, terus belajar satu sama lain, sedikit demi sedikit, selama mungkin.
       </p>
-      <p class="signature" style="margin-top:1.2rem;">Dengan penuh sayang,<br>Pacarmu</p>
+      <p class="signature" style="margin-top:1.2rem;">with love,<br>semi</p>
     </div>
     """,
     unsafe_allow_html=True,
